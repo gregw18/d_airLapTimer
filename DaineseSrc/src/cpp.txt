@@ -1,0 +1,25 @@
+analysis.cpp:#include "analysis.h"
+dainesemain.cpp:#include <exception>
+dainesemain.cpp:#include <iomanip>
+dainesemain.cpp://#include <sstream>
+dainesemain.cpp:#include <utility>
+dainesemain.cpp:#include "plotting.h"
+dainesemain.cpp:#include "dataCleaning.h"
+dainesemain.cpp:#include "analysis.h"
+dainesemain.cpp:#include "vectorHelpers.h"
+dainesemain.cpp:    // Filter data to only include lat/long close to the track (Shannonville.)
+datacleaning.cpp:#include "dataCleaning.h"
+fileread.cpp:#include "fileRead.h"
+fileread.cpp:#include "FileTypeInfo.h"
+fileread.cpp:#include <iostream>
+fileread.cpp:#include <fstream>
+fileread.cpp:#include <span>
+filetypesdata.cpp:#include <FileTypesData.h>
+plotting.cpp:#include "Plotting.h"
+plotting.cpp:#include <iostream>
+plotting.cpp:#include <fstream>
+plotting.cpp:#include <vector>
+timedata.cpp:#include "timeData.h"
+timehelpers.cpp:#include "timeHelpers.h"
+vectorhelpers.cpp:#include "vectorHelpers.h"
+vectorhelpers.cpp:#include "Plotting.h"

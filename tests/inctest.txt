@@ -1,0 +1,27 @@
+analysistests.cpp:#include "gtest/gtest.h"
+analysistests.cpp:#include "analysis.h"
+analysistests.cpp:#include "fileRead.h"
+analysistests.cpp:#include "TestLapDataGenerator.h"
+
+configtests.cpp:#include "gtest/gtest.h"
+configtests.cpp:#include "global.h"
+
+datacleaningtests.cpp:#include "gtest/gtest.h"
+datacleaningtests.cpp:#include "dataCleaning.h"
+
+filetypeinfotests.cpp:#include "gtest/gtest.h"
+filetypeinfotests.cpp:#include "fileRead.h"
+
+readtests.cpp:#include "gtest/gtest.h"
+readtests.cpp:// #include "plotting.h"
+readtests.cpp:#include "fileRead.h"
+
+testlapdatagenerator.cpp:#include "TestLapDataGenerator.h"
+testlapdatagenerator.h:#include "latLong.h"
+
+testlapdatageneratortests.cpp:#include "gtest/gtest.h"
+testlapdatageneratortests.cpp:#include "analysis.h"
+testlapdatageneratortests.cpp:#include "TestLapDataGenerator.h"
+
+timedatatests.cpp:#include "gtest/gtest.h"
+timedatatests.cpp:#include "timeData.h"

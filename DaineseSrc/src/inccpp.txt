@@ -1,0 +1,47 @@
+analysis.cpp:#include "analysis.h"
+
+config.cpp:#include "config.h"
+config.cpp:#include "stringHelpers.h"
+
+dainesemain.cpp:#include "global.h"
+dainesemain.cpp:#include "fileRead.h"
+dainesemain.cpp:#include "lapTimes.h"
+dainesemain.cpp:#include "vectorHelpers.h"
+dainesemain.cpp:#include "latLongHelpers.h"
+
+datacleaning.cpp:#include "global.h"
+datacleaning.cpp:#include "dataCleaning.h"
+
+fileread.cpp:#include "fileRead.h"
+
+filetypesdata.cpp:#include <FileTypesData.h>
+
+laptimes.cpp:#include "lapTimes.h"
+laptimes.cpp:#include "dataCleaning.h"
+laptimes.cpp:#include "latLongHelpers.h"
+laptimes.cpp:#include "Plotting.h"
+laptimes.cpp:#include "vectorHelpers.h"
+laptimes.cpp:#include "timeHelpers.h"
+
+latlonghelpers.cpp:#include "latLongHelpers.h"
+latlonghelpers.cpp:#include "dataCleaning.h"
+latlonghelpers.cpp:#include "fileRead.h"
+latlonghelpers.cpp:#include "global.h"
+latlonghelpers.cpp:#include "vectorHelpers.h"
+latlonghelpers.cpp:#include "Plotting.h"
+
+plotting.cpp:#include "matplotlibcpp.h"
+plotting.cpp:#include "Plotting.h"
+
+stringhelpers.cpp:#include "stringHelpers.h"
+
+timedata.cpp:#include "timeData.h"
+timedata.cpp:#include "fileRead.h"
+timedata.cpp:#include "timeHelpers.h"
+
+timehelpers.cpp:#include "timeHelpers.h"
+
+vectorhelpers.cpp:#include "global.h"
+vectorhelpers.cpp:#include "Plotting.h"
+vectorhelpers.cpp:#include "timeHelpers.h"
+vectorhelpers.cpp:#include "vectorHelpers.h"

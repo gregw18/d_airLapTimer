@@ -1,0 +1,67 @@
+baseFileName=0902-DAIR49-JUL1001
+
+#======================================================================================================
+# Mosport
+# Ignore all data where longitude is not in the following range.
+longFilterLow=-79
+longFilterHigh=-78
+
+# Mosport pits and front straight.
+#longFilterLow=-78.677
+#longFilterHigh=-78.6715
+
+# Latitude/Longitude for track definition - start/finish line, track entrance, and 1 or 2 track exits.
+# Following values are for long track at Shannonville.
+startFinishLat=44.05420
+startFinishLong=-78.6735
+trackEntranceLat=44.0530
+trackEntranceLong=-78.67195
+trackExit1Lat=44.05449
+trackExit1Long=-78.67675
+
+# No common second exit.
+trackExit2Lat=0
+trackExit2Long=0
+
+#======================================================================================================
+# Shannonville long track
+# Ignore all data where longitude is not in the following range.
+#longFilterLow=-78
+#longFilterHigh=-76
+
+# Shannonville pits and front straight.
+#longFilterLow=-77.162
+#longFilterHigh=-77.156
+
+# Latitude/Longitude for track definition - start/finish line, track entrance, and 1 or 2 track exits.
+#startFinishLat=44.2250
+#startFinishLong=-77.1593
+#trackEntranceLat=44.22458
+#trackEntranceLong=-77.1604
+#trackExit1Lat=44.2255
+#trackExit1Long=-77.15777
+
+# Where access road passes end of drag strip.
+#trackExit2Lat=44.22961
+#trackExit2Long=-77.15932
+
+#Normal track exit, but too close to track to reliably differentiate.
+#trackExit2Lat=44.2253
+#trackExit2Long=-77.15736
+
+#======================================================================================================
+
+# How close does a point have to be to a target to be considered at the target?
+latLongWindow=0.00007
+
+# How many measurements to jump, when hit a target (like start/finish, track entrance or exit),
+# before looking again. Used to avoid double counting hitting a target.
+startFinishJump=25
+
+# If a given lap time is this many times the average, exclude it from results shown in the graph. I.e. if 
+# average time is 60s and this value is 1.5, it will exclude laps over 90s. Intended to prevent outliers from 
+# making differences among valid laps too small to analyze, when charted.
+lapTimeGraphCutoffMultiple=1.5
+
+# Troubleshooting setting - how many elements of a vector to display.
+vectorMaxElementsToDisplay=200

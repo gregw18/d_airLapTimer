@@ -1,0 +1,18 @@
+analysis.h:#include "global.h"
+analysis.h:#include "latLong.h"
+analysis.h:#include "timeData.h"
+
+fileread.h:#include "FileTypesData.h"
+
+filetypeinfo.h:#include "DaineseDataTypes.h"
+
+filetypesdata.h:#include "FileTypeInfo.h"
+
+global.h:#include "config.h"
+
+laptimes.h:#include "analysis.h"
+laptimes.h:#include "timeData.h"
+
+latlonghelpers.h:#include "DaineseDataTypes.h"
+
+timedata.h:#include "FileTypesData.h"

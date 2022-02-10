@@ -22,7 +22,7 @@ My program lets you specify the directory to read data from as a command line ar
 Each lap time entry contains a date (not including the year), the time of day (UTC, not local) and the lap time. The output includes in and out laps.
 As noted above, it is possible to miss a trigger point, by being slightly outside the expected window for that point. You can adjust the GPS points for the various events in config.txt, along with the size of the window (latLongWindow entry), but it can be difficult to get a combination that correctly matches all the desired triggers without also generating some false positives.
 In my experience there are occasionally abnormally long lap times. There is a setting in config.txt (lapTimeGraphCutoffMultiple) that lets you exclude from the graph lap times that are greater than that multiple of your average lap time. I.e. if your average time is 60s and the setting is 1.5, any lap over 1.5 * 60s = 90s will be excluded from the graph. This allows the differences among the remaining laps to be more easily seen.
-![Lap Times](./images/LapTimesBar.jpg)
+![Lap Times](./images/LapTimesBar.jpeg)
 
 ## Advanced Usage
 See Advanced.md.

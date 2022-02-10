@@ -24,7 +24,7 @@ To select the file to view, uncomment the line in daineseMain.cpp/main for the d
 ### Graphing a Channel Over Track Layout
 The graphFileAgainstLatLong function displays the selected channel as a color range over top of the track layout. It can display things like where your maximum velocity or acceleration (positive and negative) occur.
 Uncomment the appropriate line in main, or, if the channel you want isn't listed, copy an existing line and change it to the DaineseDataTypes type that you want and copy the template data types from the displayFileContents line for the same type above.
-![Velocity](images/velocity.jpg)
+![Velocity](/images/velocity.jpg)
 
 ### Calculating Lap Times
 The lapTimes function will calculate laptimes from the given data and config, printing them to the command prompt and also graphing them. 

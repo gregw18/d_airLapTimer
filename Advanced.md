@@ -31,6 +31,8 @@ To select the file to view, uncomment the line in daineseMain.cpp/main for the d
 The graphFileAgainstLatLong function displays the selected channel as a color range over top of the track layout. It can display things like where your maximum velocity or acceleration (positive and negative) occur.
 
 Uncomment the appropriate line in main, or, if the channel you want isn't listed, copy an existing line and change it to the DaineseDataTypes type that you want and copy the template data types from the displayFileContents line for the same type above.
+
+### Speed vs Track Layout at Mosport
 ![Velocity](/images/Velocity.jpg)
 
 ### Calculating Lap Times
@@ -58,4 +60,3 @@ Once you are happy with the results, switch to running the lapTimes function and
 Note that picking a startFinish point that exactly matches the official start/finish line of the track isn't necessary, if you aren't trying to compare laptimes from this program to officially recorded times. (If you have official times, why are you using this program?) Rather, pick a point somewhere on the startFinish straight that is far enough from the track exit and entrance that you can expand the window without getting false positives for any of the trigger points.
 
 The displayTimeLatLong function will output the time and latitude/longitude points for every measurement in the given files, if you need more help figuring out why a certain point wasn't triggered on a given lap - but it is a lot of data to go through. (Use the start time of the problematic lap to estimate where to start your search.)
-

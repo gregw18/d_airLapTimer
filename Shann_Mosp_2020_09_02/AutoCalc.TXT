@@ -1,0 +1,3 @@
+9:03:41 PM  Protocol of AutoCalc.Exe version 2016.4.0.1  Date: 2020-09-02 Time: 9:03:41 PM
+9:03:41 PM  Filedate of executable: 2015-12-15 11:27:48 AM             User: gwalk
+2 * : 9:03:41 PM  =====================================================================

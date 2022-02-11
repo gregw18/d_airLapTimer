@@ -3,12 +3,12 @@ baseFileName=0902-DAIR49-JUL1001
 #======================================================================================================
 # Mosport
 # Ignore all data where longitude is not in the following range.
-longFilterLow=-79
-longFilterHigh=-78
+#longFilterLow=-79
+#longFilterHigh=-78
 
 # Mosport pits and front straight.
-#longFilterLow=-78.677
-#longFilterHigh=-78.6715
+longFilterLow=-78.677
+longFilterHigh=-78.6715
 
 # Latitude/Longitude for track definition - start/finish line, track entrance, and 1 or 2 track exits.
 # Following values are for long track at Shannonville.

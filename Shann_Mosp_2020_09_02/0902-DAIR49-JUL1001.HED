@@ -1,0 +1,36 @@
+[DOWNLOAD]
+Run total [s]=0
+Run recording [s]=0
+Start of download=02.09.2020 20:39:43
+End of download=02.09.2020 21:03:38
+Number of errors=10
+Time to decompress=0.0 sec
+System id=31H00E16323
+Loggername=Dair49
+Logger serial=00E16323
+Mileage calculated=(0km)
+
+[INFO_2D]
+Programversion=2016.9.3.26
+Userlevel=Supervisor
+Computer=GREGSXPS17
+Computer user=gwalk
+Licence name=2D KIT 00E16323
+Licence level=Kit licence
+CRC=01351AA9
+
+[CalcTool]
+C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.CAL=2020-09-02 9:03:40 PM by gwalk
+C:\ProgramData\RaceKitDAir_16\System\Cal\2D_GPSAuto.CCF=2020-09-02 9:03:49 PM by gwalk
+C:\ProgramData\RaceKitDAir_16\System\Cal\2D_RaceGPSKit.CCF=2020-09-02 9:03:50 PM by gwalk
+
+[GPS]
+Rate=6.25
+ShiftTime=-0.278
+SpeedFreq=1.2
+CourseFreq=1.2
+RateDiv=4
+
+[Laptimes]
+Fastest lap=IN/OUT
+0=405:37.760

@@ -1,0 +1,453 @@
+9:03:40 PM  Protocol of CalcTool.Exe version 2016.11.3.12  Date: 2020-09-02 Time: 9:03:40 PM
+9:03:40 PM  Filedate of executable: 2016-07-27 10:23:54 AM             User: gwalk
+9:03:40 PM  =====================================================================
+9:03:40 PM  CalcTool started!
+9:03:40 PM  WARNING: LAP-file not found! Using whole measurement as one lap!
+9:03:40 PM  Using CAL-file: C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.CAL
+9:03:40 PM  Preparing channels for analyzer...
+9:03:40 PM  Merging settings.
+9:03:40 PM  Using settingfile: C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:40 PM  
+9:03:40 PM  Executing preprocessor on cal-file.
+9:03:40 PM  Preprocessor finished.
+9:03:40 PM  
+9:03:40 PM  Calculating channels
+9:03:40 PM   
+9:03:40 PM  Executing postprocessor on cal-file.
+9:03:40 PM  Postprocessor finished.
+9:03:40 PM  
+9:03:40 PM  Removing non recorded channels.
+9:03:40 PM  Writing analysis-file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:40 PM  CalcTool terminated!
+9:03:41 PM  Application closed
+9:03:41 PM  Protocol of CalcTool.exe version 2016.11.3.12  Date: 2020-09-02 Time: 9:03:41 PM
+9:03:41 PM  Filedate of executable: 2016-07-27 10:23:54 AM             User: gwalk
+9:03:41 PM  =====================================================================
+9:03:41 PM  CalcTool started!
+9:03:41 PM  WARNING: LAP-file not found! Using whole measurement as one lap!
+9:03:41 PM  Using CAL-file: C:\ProgramData\RaceKitDAir_16\System\Cal\2D_GPSAuto.CCF
+9:03:41 PM  Using settingfile: C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:41 PM  
+9:03:41 PM  Executing preprocessor on cal-file.
+9:03:41 PM  Loaded includefile C:\ProgramData\RaceKitDAir_16\SYSTEM\CAL\AUTOGPSDETECT.CCF
+9:03:41 PM  Loaded includefile C:\ProgramData\RaceKitDAir_16\SYSTEM\CAL\AUTOGPSMAIN.CCF
+9:03:41 PM  Using variable-file: C:\ProgramData\RaceKitDAir_16\system\Cal\AutoGPS.hed
+2 * : 9:03:41 PM  Replaced variable @GPS_ShiftTime_12 by value: -0.10 sec
+2 * : 9:03:41 PM  Replaced variable @GPS_SpeedFreq_12 by value: 2.0
+2 * : 9:03:41 PM  Replaced variable @GPS_CourseFreq_12 by value: 1.5
+2 * : 9:03:41 PM  Replaced variable @GPS_RateDiv_12 by value: 4
+2 * : 9:03:41 PM  Replaced variable @GPS_ShiftTime_50 by value: -0.025 sec
+2 * : 9:03:41 PM  Replaced variable @GPS_SpeedFreq_50 by value: 3.0
+2 * : 9:03:41 PM  Replaced variable @GPS_CourseFreq_50 by value: 2.5
+2 * : 9:03:41 PM  Replaced variable @GPS_RateDiv_50 by value: 1
+2 * : 9:03:41 PM  Replaced variable @GPS_ShiftTime_25 by value: -0.05 sec
+2 * : 9:03:41 PM  Replaced variable @GPS_SpeedFreq_25 by value: 2.0
+2 * : 9:03:41 PM  Replaced variable @GPS_CourseFreq_25 by value: 1.5
+2 * : 9:03:41 PM  Replaced variable @GPS_RateDiv_25 by value: 2
+2 * : 9:03:41 PM  Replaced variable @GPS_ShiftTime_10 by value: -0.12 sec
+2 * : 9:03:41 PM  Replaced variable @GPS_SpeedFreq_10 by value: 2.0
+2 * : 9:03:41 PM  Replaced variable @GPS_CourseFreq_10 by value: 1.5
+2 * : 9:03:41 PM  Replaced variable @GPS_RateDiv_10 by value: 4
+2 * : 9:03:41 PM  Replaced variable @GPS_ShiftTime_6 by value: -0.278 sec
+2 * : 9:03:41 PM  Replaced variable @GPS_SpeedFreq_6 by value: 1.2
+2 * : 9:03:41 PM  Replaced variable @GPS_CourseFreq_6 by value: 1.2
+2 * : 9:03:41 PM  Replaced variable @GPS_RateDiv_6 by value: 4
+22 * : 9:03:41 PM  Replaced variable @GPS_NewRate by value: 100
+2 * : 9:03:41 PM  Replaced variable @GPS_MinValidSat by value: 1.4
+2 * : 9:03:41 PM  Replaced variable @GPS_NewRate by value: 100
+2 * : 9:03:41 PM  Replaced variable @GPS_MinValidSat by value: 1.4
+4 * : 9:03:41 PM  Replaced variable @GPS_NewRate by value: 100
+2 * : 9:03:41 PM  Replaced variable @GPS_AccFilter by value: 20
+9:03:41 PM  Evaluated channel-property RATE of channel COURSE to 6.25
+9:03:41 PM  Replaced "#COURSE.RATE" by 6.25
+9:03:41 PM  Evaluated channel-property RATE of channel COURSE to 6.25
+9:03:41 PM  Replaced "#COURSE.RATE" by 6.25
+9:03:41 PM  Evaluated expression "-120*6.25" to -750
+9:03:41 PM  Evaluated expression "360*6.25" to 2250
+9:03:41 PM  Evaluated channel-property RATE of channel COURSE to 6.25
+9:03:41 PM  Replaced "#COURSE.RATE" by 6.25
+9:03:41 PM  Evaluated channel-property RATE of channel COURSE to 6.25
+9:03:41 PM  Replaced "#COURSE.RATE" by 6.25
+9:03:41 PM  Evaluated expression "120*6.25" to 750
+9:03:41 PM  Evaluated expression "-360*6.25" to -2250
+4 * : 9:03:41 PM  Replaced variable @GPS_NewRate by value: 100
+2 * : 9:03:41 PM  Replaced  @DEG2RAD by 0.0174532925199433
+9:03:41 PM  Evaluated expression "0.0174532925199433/3.6" to 0.004848137
+2 * : 9:03:41 PM  Replaced variable @GPS_StandStill by value: 1.0
+2 * : 9:03:41 PM  Replaced variable @GPS_AccFilter by value: 20
+2 * : 9:03:41 PM  Replaced  @G by 9.80665
+9:03:41 PM  Evaluated expression "9.80665 * -1" to -9.80665
+2 * : 9:03:41 PM  Replaced  @RAD2DEG by 57.2957795130823
+9:03:41 PM  Preprocessor finished.
+9:03:41 PM  
+9:03:41 PM  Calculating channels
+9:03:41 PM   
+9:03:41 PM  Computing group [Detect GPS Rate By V_Sat]
+9:03:41 PM  Condition "IFNOTSPECVALUEEXISTS(GPS.RATE)" true. Group "Detect GPS Rate By V_Sat" will be calculated!
+9:03:41 PM  Condition "IFEXISTS(#V_SAT)" true. Group "Detect GPS Rate By V_Sat" will be calculated!
+9:03:41 PM  Computing line: 0
+9:03:41 PM  FindGPSFreq Counterfield
+9:03:41 PM  1: 6.250: 117818
+9:03:41 PM  2: 3.125: 5557
+9:03:41 PM  3: 2.083: 1736
+9:03:41 PM  4: 1.563: 822
+9:03:41 PM  5: 1.250: 500
+9:03:41 PM  6: 1.042: 349
+9:03:41 PM  7: 0.893: 189
+9:03:41 PM  8: 0.781: 118
+9:03:41 PM  9: 0.694: 101
+9:03:41 PM  10: 0.625: 60
+9:03:41 PM  11: 0.568: 49
+9:03:41 PM  12: 0.521: 50
+9:03:41 PM  13: 0.481: 33
+9:03:41 PM  14: 0.446: 14
+9:03:41 PM  15: 0.417: 15
+9:03:41 PM  16: 0.391: 19
+9:03:41 PM  17: 0.368: 19
+9:03:41 PM  18: 0.347: 7
+9:03:41 PM  19: 0.329: 16
+9:03:41 PM  20: 0.313: 7
+9:03:41 PM  21: 0.298: 7
+9:03:41 PM  22: 0.284: 5
+9:03:41 PM  23: 0.272: 5
+9:03:41 PM  24: 0.260: 3
+9:03:41 PM  25: 0.250: 3
+9:03:41 PM  26: 0.240: 1
+9:03:41 PM  27: 0.231: 1
+9:03:41 PM  28: 0.223: 11
+9:03:41 PM  29: 0.216: 1
+9:03:41 PM  30: 0.208: 5
+9:03:41 PM  32: 0.195: 1
+9:03:41 PM  33: 0.189: 1
+9:03:41 PM  34: 0.184: 1
+9:03:41 PM  35: 0.179: 1
+9:03:41 PM  37: 0.169: 1
+9:03:41 PM  38: 0.164: 2
+9:03:41 PM  40: 0.156: 2
+9:03:41 PM  41: 0.152: 1
+9:03:41 PM  42: 0.149: 5
+9:03:41 PM  44: 0.142: 2
+9:03:41 PM  46: 0.136: 1
+9:03:41 PM  48: 0.130: 1
+9:03:41 PM  52: 0.120: 1
+9:03:41 PM  53: 0.118: 1
+9:03:41 PM  57: 0.110: 1
+9:03:41 PM  70: 0.089: 1
+9:03:41 PM  Too slow: 3
+9:03:41 PM  Found freq: 6.250 Accuracy : 96.73%
+9:03:41 PM  Saving calculated channels.
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: Rate  VALUE: 6.25
+9:03:41 PM  End of group [Detect GPS Rate By V_Sat]
+9:03:41 PM   
+9:03:41 PM  Computing group [Set Default GPS Rate]
+9:03:41 PM  Condition "IFNOTSPECVALUEEXISTS(GPS.RATE)" false. Group "Set Default GPS Rate" will not be calculated!
+9:03:41 PM  End of group [Set Default GPS Rate]
+9:03:41 PM   
+9:03:41 PM  Computing group [Write 12.5 Hz GPS-Vars in Spec]
+9:03:41 PM  Computing line: 0
+9:03:41 PM  Computing line: 1
+9:03:41 PM  Computing line: 2
+9:03:41 PM  Computing line: 3
+9:03:41 PM  Saving calculated channels.
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: ShiftTime  VALUE: -0.1
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: SpeedFreq  VALUE: 2
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: CourseFreq  VALUE: 1.5
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: RateDiv  VALUE: 4
+9:03:41 PM  End of group [Write 12.5 Hz GPS-Vars in Spec]
+9:03:41 PM   
+9:03:41 PM  Computing group [Write 50 Hz GPS-Vars in Spec]
+9:03:41 PM  Condition "IFSPECVALUECONTAINS(GPS.RATE, 50)" false. Group "Write 50 Hz GPS-Vars in Spec" will not be calculated!
+9:03:41 PM  End of group [Write 50 Hz GPS-Vars in Spec]
+9:03:41 PM   
+9:03:41 PM  Computing group [Write 25 Hz GPS-Vars in Spec]
+9:03:41 PM  Condition "IFSPECVALUECONTAINS(GPS.RATE, 25)" true. Group "Write 25 Hz GPS-Vars in Spec" will be calculated!
+9:03:41 PM  Computing line: 0
+9:03:41 PM  Computing line: 1
+9:03:41 PM  Computing line: 2
+9:03:41 PM  Computing line: 3
+9:03:41 PM  Saving calculated channels.
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: ShiftTime  VALUE: -0.05
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: SpeedFreq  VALUE: 2
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: CourseFreq  VALUE: 1.5
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: RateDiv  VALUE: 2
+9:03:41 PM  End of group [Write 25 Hz GPS-Vars in Spec]
+9:03:41 PM   
+9:03:41 PM  Computing group [Write 10 Hz GPS-Vars in Spec]
+9:03:41 PM  Condition "IFSPECVALUECONTAINS(GPS.RATE, 10)" false. Group "Write 10 Hz GPS-Vars in Spec" will not be calculated!
+9:03:41 PM  End of group [Write 10 Hz GPS-Vars in Spec]
+9:03:41 PM   
+9:03:41 PM  Computing group [Write 6.25 Hz GPS-Vars in Spec]
+9:03:41 PM  Condition "IFSPECVALUECONTAINS(GPS.RATE, 6.25)" true. Group "Write 6.25 Hz GPS-Vars in Spec" will be calculated!
+9:03:41 PM  Computing line: 0
+9:03:41 PM  Computing line: 1
+9:03:41 PM  Computing line: 2
+9:03:41 PM  Computing line: 3
+9:03:41 PM  Saving calculated channels.
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: ShiftTime  VALUE: -0.278
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: SpeedFreq  VALUE: 1.2
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: CourseFreq  VALUE: 1.2
+9:03:41 PM  Result written to SpecSheet C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.HED  GROUP: GPS  IDENTIFIER: RateDiv  VALUE: 4
+9:03:41 PM  End of group [Write 6.25 Hz GPS-Vars in Spec]
+9:03:41 PM   
+9:03:41 PM  Computing group [PreProc]
+9:03:41 PM  Found command to start PreProcessor after group PreProc
+9:03:41 PM  Saving calculated channels.
+9:03:41 PM  Executing preprocessor on cal-file.
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/(2*4)" to 12.5
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/(2*4)" to 12.5
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/(2*4)" to 12.5
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/(2*4)" to 12.5
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/(2*4)" to 12.5
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.SpeedFreq by 1.2
+9:03:41 PM  Replaced GPS.RateDiv by 4
+9:03:41 PM  Evaluated expression "100/4" to 25
+9:03:41 PM  Replaced GPS.Rate by 6.25
+9:03:41 PM  Replaced Spec-Value GPS.ShiftTime with -0.27800000
+9:03:41 PM  Replaced GPS.CourseFreq by 1.2
+9:03:41 PM  Preprocessor finished.
+9:03:41 PM  
+9:03:41 PM  End of group [PreProc]
+9:03:41 PM   
+9:03:41 PM  Computing group [Longitude_Dellorto]
+9:03:41 PM  Condition "IFEXISTS(#LON_DEZL)" false. Group "Longitude_Dellorto" will not be calculated!
+9:03:41 PM  End of group [Longitude_Dellorto]
+9:03:41 PM   
+9:03:41 PM  Computing group [Latitude_Dellorto]
+9:03:41 PM  Condition "IFEXISTS(#LAT_DEZL)" false. Group "Latitude_Dellorto" will not be calculated!
+9:03:41 PM  End of group [Latitude_Dellorto]
+9:03:41 PM   
+9:03:41 PM  Computing group [Altitude_Dellorto]
+9:03:41 PM  Condition "IFEXISTS(#ALTI_LO)" false. Group "Altitude_Dellorto" will not be calculated!
+9:03:41 PM  End of group [Altitude_Dellorto]
+9:03:41 PM   
+9:03:41 PM  Computing group [Longitude]
+9:03:41 PM  Condition "IFEXISTS(#LON_DELO)" false. Group "Longitude" will not be calculated!
+9:03:41 PM  End of group [Longitude]
+9:03:41 PM   
+9:03:41 PM  Computing group [Latitude]
+9:03:41 PM  Condition "IFEXISTS(#LAT_DELO)" false. Group "Latitude" will not be calculated!
+9:03:41 PM  End of group [Latitude]
+9:03:41 PM   
+9:03:41 PM  Computing group [Longitude32]
+9:03:41 PM  Condition "IFEXISTS(#LON_DEZ)" true. Group "Longitude32" will be calculated!
+9:03:41 PM  Computing line: 0
+9:03:41 PM  Computing line: 1
+9:03:42 PM  Computing line: 2
+9:03:42 PM  Computing line: 3
+9:03:42 PM  Computing line: 4
+9:03:42 PM  Saving calculated channels.
+9:03:42 PM  Saving channel Longitude!
+9:03:42 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C00
+9:03:42 PM  End of group [Longitude32]
+9:03:42 PM   
+9:03:42 PM  Computing group [Latitude32]
+9:03:42 PM  Condition "IFEXISTS(#LAT_DEZ)" true. Group "Latitude32" will be calculated!
+9:03:42 PM  Computing line: 0
+9:03:42 PM  Computing line: 1
+9:03:43 PM  Computing line: 2
+9:03:43 PM  Computing line: 3
+9:03:43 PM  Computing line: 4
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel Latitude!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C01
+9:03:43 PM  End of group [Latitude32]
+9:03:43 PM   
+9:03:43 PM  Computing group [Altitude_Make]
+9:03:43 PM  Condition "IFEXISTS(#ALTITULO)" false. Group "Altitude_Make" will not be calculated!
+9:03:43 PM  End of group [Altitude_Make]
+9:03:43 PM   
+9:03:43 PM  Computing group [Altitude]
+9:03:43 PM  Condition "IFEXISTS(#ALTITUDE)" true. Group "Altitude" will be calculated!
+9:03:43 PM  Condition "IFNOTEXISTS(#ALTITULO)" true. Group "Altitude" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Computing line: 1
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel Altitude!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C02
+9:03:43 PM  End of group [Altitude]
+9:03:43 PM   
+9:03:43 PM  Computing group [GPSValid]
+9:03:43 PM  Condition "IFEXISTS(#LONGITUDE)" true. Group "GPSValid" will be calculated!
+9:03:43 PM  Condition "IFEXISTS(#LATITUDE)" true. Group "GPSValid" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Computing line: 1
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel GPSValid!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C03
+9:03:43 PM  End of group [GPSValid]
+9:03:43 PM   
+9:03:43 PM  Computing group [ValidSats]
+9:03:43 PM  Condition "IFEXISTS(#VALIDSATS)" false. Group "ValidSats" will not be calculated!
+9:03:43 PM  End of group [ValidSats]
+9:03:43 PM   
+9:03:43 PM  Computing group [ValidSat]
+9:03:43 PM  Condition "IFEXISTS(#VALIDSAT)" true. Group "ValidSat" will be calculated!
+9:03:43 PM  Condition "IFEXISTS(#GPSVALID)" true. Group "ValidSat" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Computing line: 1
+9:03:43 PM  Computing line: 2
+9:03:43 PM  Computing line: 3
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel GPSValid!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C03
+9:03:43 PM  End of group [ValidSat]
+9:03:43 PM   
+9:03:43 PM  Computing group [FinalGPSValid]
+9:03:43 PM  Condition "IFEXISTS(#GPSVALID)" true. Group "FinalGPSValid" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Computing line: 1
+9:03:43 PM  Computing line: 2
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel GPSValid!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C03
+9:03:43 PM  End of group [FinalGPSValid]
+9:03:43 PM   
+9:03:43 PM  Computing group [V_Sat]
+9:03:43 PM  Condition "IFEXISTS(#V_SAT)" true. Group "V_Sat" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Saving calculated channels.
+9:03:43 PM  Saving channel V_Sat!
+9:03:43 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C04
+9:03:43 PM  End of group [V_Sat]
+9:03:43 PM   
+9:03:43 PM  Computing group [V_GPS]
+9:03:43 PM  Condition "IFEXISTS(#V_SAT)" true. Group "V_GPS" will be calculated!
+9:03:43 PM  Computing line: 0
+9:03:43 PM  Computing line: 1
+9:03:44 PM  Computing line: 2
+9:03:44 PM  Computing line: 3
+9:03:46 PM  Computing line: 4
+9:03:46 PM  Computing line: 5
+9:03:46 PM  Computing line: 6
+9:03:46 PM  Computing line: 7
+9:03:46 PM  Computing line: 8
+9:03:46 PM  Computing line: 9
+9:03:46 PM  Computing line: 10
+9:03:46 PM  Computing line: 11
+9:03:46 PM  Saving calculated channels.
+9:03:46 PM  Saving channel V_GPS!
+9:03:46 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C05
+9:03:46 PM  Saving channel V_GPS!
+9:03:46 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C05
+9:03:46 PM  Saving channel A_Lon_GPS!
+9:03:46 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C06
+9:03:46 PM  End of group [V_GPS]
+9:03:46 PM   
+9:03:46 PM  Computing group [Course]
+9:03:46 PM  Condition "IFEXISTS(#COURSE)" true. Group "Course" will be calculated!
+9:03:46 PM  Computing line: 0
+9:03:46 PM  Computing line: 1
+9:03:46 PM  Computing line: 2
+9:03:46 PM  Computing line: 3
+9:03:46 PM  Computing line: 4
+9:03:46 PM  Computing line: 5
+9:03:46 PM  Computing line: 6
+9:03:46 PM  Computing line: 7
+9:03:46 PM  Computing line: 8
+9:03:46 PM  Computing line: 9
+9:03:46 PM  Computing line: 10
+9:03:47 PM  Computing line: 11
+9:03:49 PM  Computing line: 12
+9:03:49 PM  Computing line: 13
+9:03:49 PM  Saving calculated channels.
+9:03:49 PM  Saving channel Course_f!
+9:03:49 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C07
+9:03:49 PM  Saving channel GPS_Yaw!
+9:03:49 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C08
+9:03:49 PM  End of group [Course]
+9:03:49 PM   
+9:03:49 PM  Computing group [A_Lat_GPS]
+9:03:49 PM  Condition "IFEXISTS(#COURSE)" true. Group "A_Lat_GPS" will be calculated!
+9:03:49 PM  Computing line: 0
+9:03:49 PM  Computing line: 1
+9:03:49 PM  Computing line: 2
+9:03:49 PM  Computing line: 3
+9:03:49 PM  Computing line: 4
+9:03:49 PM  Computing line: 5
+9:03:49 PM  Saving calculated channels.
+9:03:49 PM  Saving channel A_Lat_GPS!
+9:03:49 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C09
+9:03:49 PM  Saving channel A_Lat_GPS!
+9:03:49 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C09
+9:03:49 PM  End of group [A_Lat_GPS]
+9:03:49 PM   
+9:03:49 PM  Computing group [Banking_GPS]
+9:03:49 PM  Condition "IFEXISTS(#A_LAT_GPS)" true. Group "Banking_GPS" will be calculated!
+9:03:49 PM  Computing line: 0
+9:03:49 PM  Computing line: 1
+9:03:49 PM  Computing line: 2
+9:03:49 PM  Computing line: 3
+9:03:49 PM  Saving calculated channels.
+9:03:49 PM  Saving channel Banking_GPS!
+9:03:49 PM  Saved in file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C0A
+9:03:49 PM  End of group [Banking_GPS]
+9:03:49 PM   
+9:03:49 PM  Executing postprocessor on cal-file.
+9:03:49 PM  Channel Lon_dez set to hidden.
+9:03:49 PM  Channel Lat_dez set to hidden.
+9:03:49 PM  Deleted channel Course_f and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.C07
+9:03:49 PM  Postprocessor finished.
+9:03:49 PM  
+9:03:49 PM  Removing non recorded channels.
+9:03:49 PM  Writing analysis-file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:49 PM  CalcTool terminated!
+9:03:49 PM  Application closed
+9:03:50 PM  Protocol of CalcTool.exe version 2016.11.3.12  Date: 2020-09-02 Time: 9:03:50 PM
+9:03:50 PM  Filedate of executable: 2016-07-27 10:23:54 AM             User: gwalk
+9:03:50 PM  =====================================================================
+9:03:50 PM  CalcTool started!
+9:03:50 PM  WARNING: LAP-file not found! Using whole measurement as one lap!
+9:03:50 PM  Using CAL-file: C:\ProgramData\RaceKitDAir_16\System\Cal\2D_RaceGPSKit.CCF
+9:03:50 PM  Using settingfile: C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:50 PM  
+9:03:50 PM  Executing preprocessor on cal-file.
+9:03:50 PM  Preprocessor finished.
+9:03:50 PM  
+9:03:50 PM  Calculating channels
+9:03:50 PM   
+9:03:50 PM  Computing group [Test]
+9:03:50 PM  Saving calculated channels.
+9:03:50 PM  End of group [Test]
+9:03:50 PM   
+9:03:50 PM  Executing postprocessor on cal-file.
+9:03:50 PM  Erased channel GYRO_X and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A05
+9:03:50 PM  Erased channel GYRO_Y and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A06
+9:03:50 PM  Erased channel GYRO_Z and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A07
+9:03:50 PM  Erased channel RiskInt and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0R
+9:03:50 PM  Erased channel RiskDeri and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0S
+9:03:50 PM  Erased channel RiskAcc and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0T
+9:03:50 PM  Erased channel RiskJerk and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0U
+9:03:50 PM  Erased channel Pwr_Sleep_Cnt and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0W
+9:03:50 PM  Erased channel PwrOffTimeout and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0Y
+9:03:50 PM  Erased channel Enable and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0Z
+9:03:50 PM  Erased channel Ignition and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A10
+9:03:50 PM  Erased channel FlatterCnt and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A1L
+9:03:50 PM  Erased channel FlatterAlert and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A1M
+9:03:50 PM  Erased channel Risk and file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.A0Q
+9:03:50 PM  Postprocessor finished.
+9:03:50 PM  
+9:03:50 PM  Removing non recorded channels.
+9:03:50 PM  Writing analysis-file C:\RaceData\200813_Mosport\0902-DAIR49-JUL1001.MES\0902-DAIR49-JUL1001.DDD
+9:03:50 PM  CalcTool terminated!
+9:03:50 PM  Application closed

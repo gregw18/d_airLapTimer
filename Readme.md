@@ -34,6 +34,11 @@ In my experience there are occasionally abnormally long lap times. There is a se
 ### Mosport Lap Times
 ![Lap Times](./images/LapTimesBar.jpeg)
 
+## Sample Data
+I have included some sample data in this project, in the Shann_Mosp_2020_09_02 directory. It includes data from two track days, one at Mosport on August 13, 2020 and one at Shannonville on August 27. The graph of lap times for the Mosport day is provided above.  
+This data is provided so that there is some known-good data for verifying that the program is running correctly and so that you can see exactly which of the files downloaded from the leathers are required.  
+The data from the two different tracks has to be processed separately - when config.txt is configured to look at Mosport data, it will show results just for that track day and similarly for Shannonville.
+
 ## Advanced Usage
 See Advanced.md.
 
